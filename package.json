@@ -1,0 +1,27 @@
+{
+  "name": "auth-endpoint",
+  "version": "1.0.0",
+  "description": "A simple authorization middleware that calls a remote server to validate a token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntbandara3/auth-endpoint.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "authorization"
+  ],
+  "author": "Nandun Bandara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ntbandara3/auth-endpoint/issues"
+  },
+  "homepage": "https://github.com/ntbandara3/auth-endpoint#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
